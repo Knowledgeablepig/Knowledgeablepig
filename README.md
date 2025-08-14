@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Knowledgeablepig
+- 👋 Hi, I’m @Matthew Broussard
 - 👀 I’m interested in Numerical Partial differential eqautions using Python along with Java projects, mainly designing and building games from scratch and Javascript projects involving the eris library.
 - 🌱 I am an applied mathematics PhD candidate working with partial differential equations and optimal control. 
 - 😄 Pronouns: he/him
