@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knowledgeablepig
-- 👀 I’m interested in Java projects, mainly designing and building games from scratch and Javascript projects involving the eris library.
-- 🌱 I’m currently a math phd student, so cs is a little out of my wheelhouse, but I still thoroughly enjoy the challenge and puzzle of it all.
+- 👀 I’m interested in Numerical Partial differential eqautions using Python along with Java projects, mainly designing and building games from scratch and Javascript projects involving the eris library.
+- 🌱 I am an applied mathematics PhD candidate working with partial differential equations and optimal control. 
 - 😄 Pronouns: he/him
 
 <!---
